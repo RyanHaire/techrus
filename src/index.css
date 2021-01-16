@@ -15,3 +15,10 @@ h1 {
     margin: 1.4rem;
     padding: 0.5rem 0;
 }
+
+.not-found {
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
